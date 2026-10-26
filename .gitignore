@@ -26,3 +26,7 @@ Thumbs.db
 
 # ChromaDB local storage
 chroma_data/
+
+# Interview files
+INTERVIEW_GUIDE.md
+talk_to_in*
